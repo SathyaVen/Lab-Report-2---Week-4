@@ -8,7 +8,7 @@
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-23-at-4.26.55-PM.png)
 * [Link to test file](https://github.com/SathyaVen/markdown-parser/blob/main/test2.md)
 * The Symptom: ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-23-at-4.22.59-PM.png)
-* The program runs succesfully, However, it erronously adds the word "hi" to the list as it is in the format of how a list would be in the markdown launguage.
+* The program runs succesfully, However, it erronously adds the word "hi" to the list as it is in the format of how a list would be in the markdown launguage. The program assumes that a link will always be followed after the parenthesis.
 
 ## Code Change #3
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-23-at-4.44.39-PM.png)
